@@ -4,7 +4,7 @@ Reference-Anchored Merge Tree Maps: lay out the merge-tree features of a 2D time
 
 The code and research docs come from the collaborator (lelewang1109). The user (GitHub: ydvislab) is co-authoring the paper and works in this private copy first; it will be merged back into the collaborator's repo later.
 
-**Resume here:** `notes/2026-09-27-handoff.md` (what is done, setup on a new machine/account, next steps).
+**ARCHIVED (2026-10-24):** work moved to the private fork `ydvislab/RG-MTM` (local `~/Research/RG-MTM`; upstream `lelewang1109/RG-MTM`). `paper/`, `notes/` and `.aris/` were copied there; continue there, not here. Comparison: `notes/2026-10-23-rgmtm-comparison.md`. Earlier handoff: `notes/2026-09-27-handoff.md`.
 
 ## Target venue
 
